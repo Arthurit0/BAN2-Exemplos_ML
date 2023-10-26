@@ -1,2 +1,2 @@
-# Ban2-Testes_ML
+# BAN2: Exemplos ML
  Alguns exemplos de ML vistos em BAN2
